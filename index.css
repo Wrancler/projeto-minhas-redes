@@ -12,7 +12,7 @@
     font-family: 'Party';
     src: url('fonts/Ready to Party.ttf') format('opentype');
     font-weight: normal;
-    font-style: normal;
+    font-style: normal; 
 }
 
 body {
