@@ -1,6 +1,6 @@
-# html-css
-Projeto Android 
+# CSS
+Minhas redes
 
-<a href="https://wrancler.github.io/html-css/projeto01/index.html">Executar o exercício projeto 01</a>
+<a href="https://wrancler.github.io/projeto-minhas-redes/" target="_blanck">Executar o projeto minhas redes</a>
 
 olá
