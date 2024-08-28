@@ -16,6 +16,7 @@
 }
 
 body {
+    /* background-image: url('imagens/pattern003.png');*/
     background-image: linear-gradient(to left, #f7d2b6, #f1c19c, #f5b07b98);
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     margin: 0px;
